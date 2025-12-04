@@ -1,0 +1,10 @@
+services:
+  # Frontend service (Static site)
+  - type: web
+    name: moviematch-frontend
+    env: static
+    buildCommand: "echo 'Frontend build complete'"
+    staticPublishPath: .
+    envVars:
+      - key: RENDER_BUILD_COMMAND
+        value: "echo 'No build required for static site'"

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MovieMatch - AI Movie Recommendations</title>
+    
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Main Container -->
+    <div class="app-container">
+        
+        <!-- Header Section -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-film"></i>
+                    <h1>MovieMatch</h1>
+                </div>
+                <p class="tagline">Discover your next favorite movie with AI</p>
+            </div>
+        </header>
+
+        <!-- Search Section -->
+        <main class="main-content">
+            
+            <!-- AI Mood Search -->
+            <section class="search-section mood-search">
+                <div class="section-container">
+                    <h2>How are you feeling today?</h2>
+                    <p>Describe your mood and get personalized movie recommendations</p>
+                    
+                    <div class="mood-input-wrapper">
+                        <textarea 
+                            id="moodInput" 
+                            placeholder="Tell us about your mood... (e.g., 'I feel happy and want something uplifting', 'I'm in the mood for something dark and mysterious', 'I want to laugh and feel good')"
+                            rows="3"
+                        ></textarea>
+                        <button class="btn btn-primary" id="getMoodRecommendations">
+                            <i class="fas fa-magic"></i>
+                            Get AI Recommendations
+                        </button>
+                        
+                        <div class="search-divider">
+                            <span>or</span>
+                        </div>
+                        
+                        <div class="name-search-wrapper">
+                            <input 
+                                type="text" 
+                                id="movieNameSearch" 
+                                placeholder="Search movies by name..."
+                                class="search-input"
+                            >
+                            <button class="btn btn-secondary" id="searchByName">
+                                <i class="fas fa-search"></i>
+                                Search by Name
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Genre Search -->
+            <section class="search-section genre-search">
+                <div class="section-container">
+                    <h2>Or browse by genre</h2>
+                    <p>Select your favorite genres to find movies you'll love</p>
+                    
+                    <div class="genres-grid" id="genresGrid">
+                        <!-- Genres will be loaded here -->
+                    </div>
+                    
+                    <div class="search-actions">
+                        <button class="btn btn-secondary" id="clearGenres">
+                            <i class="fas fa-times"></i>
+                            Clear All
+                        </button>
+                        <button class="btn btn-primary" id="getGenreRecommendations">
+                            <i class="fas fa-search"></i>
+                            Find Movies
+                        </button>
+                        <button class="btn btn-success" id="showAllMovies">
+                            <i class="fas fa-list"></i>
+                            Browse All Movies
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section class="results-section" id="resultsSection">
+                <div class="section-container">
+                    <div class="results-header">
+                        <h2 id="resultsTitle">Movie Recommendations</h2>
+                        <p id="resultsCount">Based on your preferences</p>
+                    </div>
+                    
+                    <div class="movies-container" id="moviesContainer">
+                        <!-- Movies will be displayed here -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Loading State -->
+            <div class="loading-overlay" id="loadingOverlay">
+                <div class="loading-content">
+                    <div class="spinner"></div>
+                    <p>Finding perfect movies for you...</p>
+                </div>
+            </div>
+
+        </main>
+
+    </div>
+
+    <!-- Movie Details Modal -->
+    <div class="modal" id="movieModal">
+        <div class="modal-overlay" id="modalOverlay"></div>
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">
+                <i class="fas fa-times"></i>
+            </button>
+            <div class="modal-body" id="modalBody">
+                <!-- Movie details will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+</html> 

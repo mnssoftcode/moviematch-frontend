@@ -1,0 +1,694 @@
+[
+  {
+    "id": 1,
+    "title": "Spider-Man: No Way Home",
+    "year": "2021",
+    "rating": 8.3,
+    "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, for...",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 2,
+    "title": "The Batman",
+    "year": "2022",
+    "rating": 8.1,
+    "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "tags": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 3,
+    "title": "No Exit",
+    "year": "2022",
+    "rating": 6.3,
+    "description": "Stranded at a rest stop in the mountains during a blizzard, a recovering addict discovers a kidnapped child hidden in a car belonging to one of the people inside the building which sets her on a terri...",
+    "tags": [
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/vDHsLnOWKlPGmWs0kGfuhNF4w5l.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 4,
+    "title": "Encanto",
+    "year": "2021",
+    "rating": 7.7,
+    "description": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of th...",
+    "tags": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 5,
+    "title": "The King's Man",
+    "year": "2021",
+    "rating": 7.0,
+    "description": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "War"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 6,
+    "title": "The Commando",
+    "year": "2022",
+    "rating": 6.6,
+    "description": "An elite DEA agent returns home after a failed mission when his family makes an unexpected discovery in their house – a stash of money worth $3 million. They soon face the danger and threat of a newly...",
+    "tags": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/pSh8MyYu5CmfyWEHzv8FEARH2zq.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 7,
+    "title": "Scream",
+    "year": "2022",
+    "rating": 6.8,
+    "description": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from t...",
+    "tags": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 8,
+    "title": "Kimi",
+    "year": "2022",
+    "rating": 6.3,
+    "description": "A tech worker with agoraphobia discovers recorded evidence of a violent crime but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: she mus...",
+    "tags": [
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 9,
+    "title": "Fistful of Vengeance",
+    "year": "2022",
+    "rating": 5.3,
+    "description": "A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok.",
+    "tags": [
+      "Action",
+      "Crime",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/3cccEF9QZgV9bLWyupJO41HSrOV.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 10,
+    "title": "Eternals",
+    "year": "2021",
+    "rating": 7.2,
+    "description": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against ...",
+    "tags": [
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/zByhtBvX99ZiCQhac1sh9d9r6nb.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 11,
+    "title": "Pursuit",
+    "year": "2022",
+    "rating": 5.9,
+    "description": "Detective Breslin crosses paths with Calloway, a ruthless hacker desperate to find his wife, who has been kidnapped by a drug cartel. When Calloway escapes police custody, Breslin joins forces with a ...",
+    "tags": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/wYihSXWYqN8Ejsdut2P1P0o97N0.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 12,
+    "title": "My Hero Academia: World Heroes' Mission",
+    "year": "2021",
+    "rating": 7.3,
+    "description": "A mysterious group called Humarize strongly believes in the Quirk Singularity Doomsday theory which states that when quirks get mixed further in with future generations, that power will bring forth th...",
+    "tags": [
+      "Animation",
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/4NUzcKtYPKkfTwKsLjwNt8nRIXV.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 13,
+    "title": "Restless",
+    "year": "2022",
+    "rating": 5.9,
+    "description": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
+    "tags": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/aw4GGsRwhQtyLsjzC7dsAahfCDY.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 14,
+    "title": "Nightmare Alley",
+    "year": "2021",
+    "rating": 7.1,
+    "description": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychiatrist who is even more dangerous than he is.",
+    "tags": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/680klE0dIreQQOyWKFgNnCAJtws.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 15,
+    "title": "The Ice Age Adventures of Buck Wild",
+    "year": "2022",
+    "rating": 7.1,
+    "description": "The fearless one-eyed weasel Buck teams up with mischievous possum brothers Crash & Eddie as they head off on a new adventure into Buck's home: The Dinosaur World.",
+    "tags": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 16,
+    "title": "Hotel Transylvania: Transformania",
+    "year": "2022",
+    "rating": 7.0,
+    "description": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodie...",
+    "tags": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 17,
+    "title": "Texas Chainsaw Massacre",
+    "year": "2022",
+    "rating": 5.1,
+    "description": "In this sequel, influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.",
+    "tags": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/meRIRfADEGVo65xgPO6eZvJ0CRG.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 18,
+    "title": "The Requin",
+    "year": "2022",
+    "rating": 4.6,
+    "description": "A couple on a romantic getaway find themselves stranded at sea when a tropical storm sweeps away their villa. In order to survive, they are forced to fight the elements, while sharks circle below.",
+    "tags": [
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 19,
+    "title": "Looop Lapeta",
+    "year": "2022",
+    "rating": 6.0,
+    "description": "When her boyfriend loses a mobster's cash, Savi races against the clock to save the day — if only she can break out of a curious cycle of dead ends.",
+    "tags": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/onGdT8sYi89drvSJyEJnft97rOq.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 20,
+    "title": "Red Notice",
+    "year": "2021",
+    "rating": 6.8,
+    "description": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling ...",
+    "tags": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 21,
+    "title": "Sing 2",
+    "year": "2021",
+    "rating": 8.2,
+    "description": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crysta...",
+    "tags": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Music"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 22,
+    "title": "The Jack in the Box: Awakening",
+    "year": "2022",
+    "rating": 5.4,
+    "description": "When a vintage Jack-in-the-box is opened by a dying woman, she enters into a deal with the demon within that would see her illness cured in return for helping it claim six innocent victims.",
+    "tags": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 23,
+    "title": "Venom: Let There Be Carnage",
+    "year": "2021",
+    "rating": 7.1,
+    "description": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+    "tags": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 24,
+    "title": "The Matrix Resurrections",
+    "year": "2021",
+    "rating": 6.8,
+    "description": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+    "tags": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 25,
+    "title": "Resident Evil: Welcome to Raccoon City",
+    "year": "2021",
+    "rating": 6.1,
+    "description": "Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surfac...",
+    "tags": [
+      "Horror",
+      "Action",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 26,
+    "title": "Last Man Down",
+    "year": "2021",
+    "rating": 6.3,
+    "description": "After civilization succumbs to a deadly pandemic and his wife is murdered, a special forces soldier abandons his duty and becomes a hermit in the Nordic wilderness. Years later, a wounded woman appear...",
+    "tags": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/4B7liCxNCZIZGONmAMkCnxVlZQV.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 27,
+    "title": "American Siege",
+    "year": "2022",
+    "rating": 5.4,
+    "description": "An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend with a gang of thieves who have taken a wealthy doctor hostage.",
+    "tags": [
+      "Action",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/daeVrgyj0ue8qb3AHyU3UeCwoZz.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 28,
+    "title": "Uncharted",
+    "year": "2022",
+    "rating": 7.1,
+    "description": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to ...",
+    "tags": [
+      "Action",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/sqLowacltbZLoCa4KYye64RvvdQ.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 29,
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+    "year": "2020",
+    "rating": 8.4,
+    "description": "Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on...",
+    "tags": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 30,
+    "title": "Ghostbusters: Afterlife",
+    "year": "2021",
+    "rating": 7.7,
+    "description": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+    "tags": [
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 31,
+    "title": "The 355",
+    "year": "2022",
+    "rating": 6.1,
+    "description": "A group of top female agents from American, British, Chinese, Columbian and German  government agencies are drawn together to try and stop an organization from acquiring a deadly weapon to send the wo...",
+    "tags": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/uQt2dJFMnJmAp9zLAWNfGilK0BW.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 32,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": "2021",
+    "rating": 7.7,
+    "description": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 33,
+    "title": "Marry Me",
+    "year": "2022",
+    "rating": 6.9,
+    "description": "Music superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charl...",
+    "tags": [
+      "Romance",
+      "Comedy",
+      "Music"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 34,
+    "title": "The Hunting",
+    "year": "2022",
+    "rating": 5.8,
+    "description": "When a mysterious animal attack leaves a mutilated body in the forest, a conservative small town detective must enlist the help of an eager wildlife specialist to uncover the dark and disturbing truth...",
+    "tags": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/kvhrltQIRp1u84ao9uj52YPaWNY.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 35,
+    "title": "West Side Story",
+    "year": "2021",
+    "rating": 7.4,
+    "description": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+    "tags": [
+      "Drama",
+      "Romance",
+      "Crime"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 36,
+    "title": "Through My Window",
+    "year": "2022",
+    "rating": 7.8,
+    "description": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+    "tags": [
+      "Romance",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/6gg7fvKc1ZxP9yCczweSxIGYp4S.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 37,
+    "title": "The Seven Deadly Sins: Cursed by Light",
+    "year": "2021",
+    "rating": 8.0,
+    "description": "With the help of the \"Dragon Sin of Wrath\" Meliodas and the worst rebels in history, the Seven Deadly Sins, the \"Holy War\", in which four races, including Humans, Goddesses, Fairies and Giants fought ...",
+    "tags": [
+      "Animation",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 38,
+    "title": "One Shot",
+    "year": "2021",
+    "rating": 6.8,
+    "description": "An elite squad of Navy SEALs, on a covert mission to transport a prisoner off a CIA black site island prison, are trapped when insurgents attack while trying to rescue the same prisoner.",
+    "tags": [
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/3OXiTjU30gWtqxmx4BU9RVp2OTv.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 39,
+    "title": "Tom and Jerry: Cowboy Up!",
+    "year": "2022",
+    "rating": 7.1,
+    "description": "This time, the rivals team up to help a cowgirl and her brother save their homestead from a greedy land-grabber, and they’re going to need some help! Jerry’s three precocious nephews are all ready for...",
+    "tags": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Western"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 40,
+    "title": "Chernobyl: Abyss",
+    "year": "2020",
+    "rating": 6.2,
+    "description": "The aftermath of a shocking explosion at the Chernobyl nuclear power station made hundreds of people sacrifice their lives to clean up the site of the catastrophe and to successfully prevent an even b...",
+    "tags": [
+      "Drama",
+      "History",
+      "Adventure"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 41,
+    "title": "Desperate Riders",
+    "year": "2022",
+    "rating": 6.8,
+    "description": "After Kansas Red rescues young Billy from a card-game shootout, the boy asks Red for help protecting his family from the outlaw Thorn, who’s just kidnapped Billy’s mother, Carol. As Red and Billy ride...",
+    "tags": [
+      "Western",
+      "Action"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 42,
+    "title": "Clifford the Big Red Dog",
+    "year": "2021",
+    "rating": 7.3,
+    "description": "As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a g...",
+    "tags": [
+      "Family",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/oifhfVhUcuDjE61V5bS5dfShQrm.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 43,
+    "title": "Tyler Perry's A Madea Homecoming",
+    "year": "2022",
+    "rating": 6.7,
+    "description": "Madea's back - hallelujer! And she's not putting up with any nonsense as family drama erupts at her great-grandson's college graduation celebration.",
+    "tags": [
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/vzX5GNRTXsAltdU1tfASmZbzYmv.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 44,
+    "title": "The Boss Baby: Family Business",
+    "year": "2021",
+    "rating": 7.6,
+    "description": "The Templeton brothers — Tim and his Boss Baby little bro Ted — have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to ...",
+    "tags": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 45,
+    "title": "Turning Red",
+    "year": "2022",
+    "rating": 8.6,
+    "description": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+    "tags": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 46,
+    "title": "Brazen",
+    "year": "2022",
+    "rating": 4.8,
+    "description": "Mystery writer Grace Miller has killer instincts when it comes to motive - and she'll need every bit of expertise to help solve her sister's murder.",
+    "tags": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 47,
+    "title": "The House",
+    "year": "2022",
+    "rating": 7.1,
+    "description": "Across different eras, a poor family, an anxious developer and a fed-up landlady become tied to the same mysterious house in this animated dark comedy.",
+    "tags": [
+      "Animation",
+      "Drama",
+      "Comedy",
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/iZjMFSKCrleKolC1gYcz5Rs8bk1.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 48,
+    "title": "Blacklight",
+    "year": "2022",
+    "rating": 5.1,
+    "description": "Travis Block is a shadowy Government agent who specializes in removing operatives whose covers have been exposed. He then has to uncover a deadly conspiracy within his own ranks that reaches the highe...",
+    "tags": [
+      "Action",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 49,
+    "title": "Ron's Gone Wrong",
+    "year": "2021",
+    "rating": 8.1,
+    "description": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
+    "tags": [
+      "Animation",
+      "Science Fiction",
+      "Family",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/7M0uwPgwvPONdFG0jk8TPK09xJU.jpg",
+    "source": "HuggingFace"
+  },
+  {
+    "id": 50,
+    "title": "Free Guy",
+    "year": "2021",
+    "rating": 7.7,
+    "description": "A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.",
+    "tags": [
+      "Comedy",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "poster": "https://image.tmdb.org/t/p/original/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+    "source": "HuggingFace"
+  }
+]

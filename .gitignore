@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+dist/
+build/
+*.egg-info/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Render
+.env.render
